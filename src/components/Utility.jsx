@@ -7,7 +7,7 @@ const Utility = () => {
     <>
       <div
         id="Tokens"
-        className="bg-[#ffffff0A] relative sm:pt-[90px] sm:pb-[88px] pt-[50px] pb-[60px]"
+        className="bg-[#ffffff0A] relative lg:pt-[90px] sm:pt-[55px] sm:pb-[88px] pt-[50px] pb-[60px]"
       >
         <div className="absolute w-[274px] h-[274px] rounded-[274px] bg-[#0066FF] left-[-20%] top-0 blur-[180px] animate-pulse"></div>
         <div className="absolute w-[274px] h-[274px] rounded-[274px] bg-[#0066FF] right-[-20%] bottom-0 blur-[180px] animate-pulse"></div>
