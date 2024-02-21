@@ -13,7 +13,7 @@ import Footer from './components/Footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Aos from 'aos';
-import BackToTop from './assets/images/webp/BackToTop.png'
+import BackToTop from './assets/images/webp/BackToTop.webp'
 import Loader from './components/Loader';
 
 function App() {

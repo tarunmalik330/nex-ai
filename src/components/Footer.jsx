@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <>
       <div
-        id=" NexChat"
+        id="NexChat"
         className="bg-[url('./assets/images/webp/BgFooter.webp')] lg:bg-BgSize bg-cover bg-center bg-no-repeat xl:pt-[323px] lg:pt-[250px] md:pt-[190px] pt-[150px]"
       >
         <div className="container xl:max-w-[1164px] mx-auto xl:px-3 px-6">
