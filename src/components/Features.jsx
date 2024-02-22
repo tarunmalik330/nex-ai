@@ -49,7 +49,7 @@ const Features = () => {
                   alt="RemoteAccess"
                   className=" w-full"
                 />
-                <div className="px-6 pb-[30px] pt-[20px] bg-[#ffffff33]">
+                <div className="px-6 pb-[30px] pt-[20px] bg-[#ffffff21]">
                   <p className="text-[20px] max-w-[304px] text-white font-semibold leading-[160%]">
                     Remote Access and File Management
                   </p>
@@ -64,7 +64,7 @@ const Features = () => {
                   alt="AutonomousImg"
                   className=" w-full"
                 />
-                <div className="px-6 pb-[30px] pt-[20px] bg-[#ffffff33]">
+                <div className="px-6 pb-[30px] pt-[20px] bg-[#ffffff21]">
                   <p className="text-[20px] text-white font-semibold leading-[160%]">
                     Autonomous and Natural Language Communication
                   </p>
@@ -77,7 +77,7 @@ const Features = () => {
                 data-aos="zoom-in-up"
               >
                 <img src={RealTime} alt="RealTime" className=" w-full" />
-                <div className=" px-6 pb-[30px] pt-[20px] bg-[#ffffff33]">
+                <div className=" px-6 pb-[30px] pt-[20px] bg-[#ffffff21]">
                   <p className="text-[20px]  text-white max-w-[203px] font-semibold leading-[160%]">
                     Real-time Home Monitoring
                   </p>
@@ -92,7 +92,7 @@ const Features = () => {
                   alt="IntelligentRobo"
                   className=" w-full"
                 />
-                <div className=" px-6 pb-[30px] pt-[20px] bg-[#ffffff33]">
+                <div className=" px-6 pb-[30px] pt-[20px] bg-[#ffffff21]">
                   <p className="text-[20px] max-w-[271px] text-white font-semibold leading-[160%]">
                     Intelligent Contextual Awareness
                   </p>
