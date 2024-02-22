@@ -1,5 +1,5 @@
 import React from "react";
-import Aigif from "../assets/images/gif/Ai-gif.gif";
+import Aigif from "../assets/images/gif/AiPowerdGif.gif";
 import AiSkull from "../assets/images/webp/Ai-skull.webp";
 
 const HomeAssistant = () => {
@@ -50,15 +50,15 @@ const HomeAssistant = () => {
             </div>
             <div className="lg:w-5/12 w-full flex justify-center">
               <div className="relative" data-aos="zoom-in-left">
-                <img
+                {/* <img
                   src={Aigif}
                   alt="Aigif"
                   className="absolute right-[-13%] max-lg:left-[44%] max-sm:max-w-[226px] max-md:max-w-[304px] max-md:left-[40%] max-sm:left-[39%] w-full bottom-0 xl:max-w-[305px] lg:max-w-[280px] max-w-[308px] mix-blend-color-dodge"
-                />
+                /> */}
                 <img
-                  src={AiSkull}
-                  alt="AiSkull"
-                  className="w-full max-w-[443px] relative z-[1]"
+                  src={Aigif}
+                  alt="Aigif"
+                  className="w-full max-w-[443px] relative z-[1] mix-blend-color-dodge"
                 />
               </div>
             </div>

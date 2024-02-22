@@ -28,15 +28,15 @@ const Utility = () => {
           <div className="bg-[#ffffff0A] border border-solid border-[#0066FF] lg:pt-[149px] lg:pl-[60px] sm:px-8 rounded-[32px] px-5 lg:pb-[237px] sm:py-[120px] py-[30px] relative overflow-hidden">
             <div className="relative z-10">
               <div
-                className="w-[58px] h-[58px] rounded-[58px] bg-[#FCFCFC] shadow-[0px_4px_16px_0px_#0066FF9C_inset] cursor-pointer flex items-center justify-center sm:mb-[30px] mb-[20px]"
+                className="sm:w-[58px] sm:h-[58px] w-[50px] h-[50px] rounded-[58px] bg-[#FCFCFC] shadow-[0px_4px_16px_0px_#0066FF9C_inset] cursor-pointer flex items-center justify-center sm:mb-[30px] mb-[16px]"
                 data-aos="zoom-in-up"
               >
-                <p className="font-semibold text-[32px] text-[#0066FF] leading-[160%]">
+                <p className="font-semibold sm:text-[32px] text-[24px] text-[#0066FF] leading-[160%]">
                   1
                 </p>
               </div>
               <h4
-                className="text-[32px] font-normal ff_play leading-[130%] mb-[16px] text-white"
+                className="sm:text-[32px] text-[23px] font-normal ff_play leading-[130%] sm:mb-[16px] mb-[14px] text-white"
                 data-aos="zoom-in-up"
               >
                 Purchasing Nexai Products
