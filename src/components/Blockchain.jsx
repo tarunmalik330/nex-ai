@@ -76,7 +76,7 @@ const Blockchain = () => {
               </div>
             </div>
             <div
-              id=" terms"
+              id="terms"
               className="flex flex-row flex-wrap sm:px-7 px-6 relative items-center justify-center lg:pt-[180px] lg:pb-[140px] sm:py-[110px] py-[50px] bg-[#0066FF] rounded-[4px] mb-[38px]"
             >
               <img

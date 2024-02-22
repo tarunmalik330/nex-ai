@@ -25,10 +25,10 @@ const Utility = () => {
           NexAI Token & utility
         </h2>
         <div className="container xl:max-w-[1164px] mx-auto xl:px-3 px-6">
-          <div className="bg-[#ffffff0A] border border-solid border-[#0066FF] lg:pt-[149px] lg:pl-[60px] sm:px-8 rounded-[32px] px-5 lg:pb-[237px] sm:py-[120px] py-[60px] relative overflow-hidden">
+          <div className="bg-[#ffffff0A] border border-solid border-[#0066FF] lg:pt-[149px] lg:pl-[60px] sm:px-8 rounded-[32px] px-5 lg:pb-[237px] sm:py-[120px] py-[30px] relative overflow-hidden">
             <div className="relative z-10">
               <div
-                className="w-[58px] h-[58px] rounded-[58px] bg-[#FCFCFC] shadow-[0px_4px_16px_0px_#0066FF9C_inset] cursor-pointer flex items-center justify-center mb-[30px]"
+                className="w-[58px] h-[58px] rounded-[58px] bg-[#FCFCFC] shadow-[0px_4px_16px_0px_#0066FF9C_inset] cursor-pointer flex items-center justify-center sm:mb-[30px] mb-[20px]"
                 data-aos="zoom-in-up"
               >
                 <p className="font-semibold text-[32px] text-[#0066FF] leading-[160%]">

@@ -125,7 +125,7 @@ const Footer = () => {
                   placeholder="E-mail"
                   className="bg-transparent py-[18px] pl-[18px] rounded-[12px] w-full outline-none text-[16px] font-normal text-white opacity-[60%] leading-[120%]"
                 />
-                <button className="bg-[#0066FF] hover:bg-white hover:text-[#0066FF] transition-all ease-linear duration-500 py-[18px] px-[32px] text-[18px] font-semibold whitespace-nowrap text-white rounded-[12px]">
+                <button className="bg-[#0066FF] hover:bg-white hover:text-[#0066FF] transition-all ease-linear duration-500 sm:py-[18px] py-[16px] px-[32px] sm:text-[18px] text-[16px] font-semibold whitespace-nowrap text-white rounded-[12px]">
                   Get Started
                 </button>
               </div>

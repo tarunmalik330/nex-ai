@@ -28,7 +28,7 @@ const GetInTouch = () => {
             address, and we will notify you accordingly.
           </p>
           <div data-aos="zoom-in-up">
-            <button className="bg-[#0066FF] hover:bg-white hover:text-[#0066FF] transition-all ease-linear duration-500 py-[18px] px-[32px] text-[18px] font-semibold text-white rounded-[12px]">
+            <button className="bg-[#0066FF] hover:bg-white hover:text-[#0066FF] transition-all ease-linear duration-500 sm:py-[18px] py-[16px] px-[32px] sm:text-[18px] text-[16px] font-semibold text-white rounded-[12px]">
               Sign Up now
             </button>
           </div>

@@ -40,10 +40,7 @@ const Features = () => {
           </div>
           <div className="flex flex-row justify-center flex-wrap relative">
             <div className="lg:w-6/12 sm:w-8/12 w-full flex flex-col lg:justify-start justify-center lg:items-start items-center relative z-10">
-              <div
-                className="lg:max-w-[364px] w-full cursor-pointer relative rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66] lg:mb-[180px] mb-[100px]"
-                data-aos="zoom-in-up"
-              >
+              <div className="lg:max-w-[364px] hover:shadow-[0_5px_16px_rgba(225,_225,_225,_1)] transition-all ease-linear duration-500 w-full cursor-pointer relative rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66] lg:mb-[180px] mb-[100px]">
                 <img
                   src={RemoteAccess}
                   alt="RemoteAccess"
@@ -55,16 +52,13 @@ const Features = () => {
                   </p>
                 </div>
               </div>
-              <div
-                className="lg:max-w-[364px] cursor-pointer rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66] max-lg:mb-[100px]"
-                data-aos="zoom-in-up"
-              >
+              <div className="lg:max-w-[364px] hover:shadow-[0_5px_16px_rgba(225,_225,_225,_1)] transition-all ease-linear duration-500  w-full cursor-pointer rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66] max-lg:mb-[100px]">
                 <img
                   src={AutonomousImg}
                   alt="AutonomousImg"
-                  className=" w-full"
+                  className="lg:max-w-[364px] w-full"
                 />
-                <div className="px-6 pb-[30px] pt-[20px] bg-[#ffffff21]">
+                <div className="px-6 pb-[30px] pt-[20px] bg-[#ffffff21] lg:max-w-[364px] w-full">
                   <p className="text-[20px] text-white font-semibold leading-[160%]">
                     Autonomous and Natural Language Communication
                   </p>
@@ -72,27 +66,25 @@ const Features = () => {
               </div>
             </div>
             <div className="lg:w-6/12 sm:w-8/12 w-full flex flex-col lg:justify-end justify-center lg:items-end items-center lg:translate-y-[27%] relative z-10">
-              <div
-                className="lg:max-w-[364px] cursor-pointer rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66] lg:mb-[180px] mb-[100px]"
-                data-aos="zoom-in-up"
-              >
-                <img src={RealTime} alt="RealTime" className=" w-full" />
-                <div className=" px-6 pb-[30px] pt-[20px] bg-[#ffffff21]">
+              <div className="lg:max-w-[364px] hover:shadow-[0_5px_16px_rgba(225,_225,_225,_1)] transition-all ease-linear duration-500  w-full cursor-pointer rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66] lg:mb-[180px] mb-[100px]">
+                <img
+                  src={RealTime}
+                  alt="RealTime"
+                  className="lg:max-w-[364px] w-full"
+                />
+                <div className="px-6 pb-[30px] pt-[20px] bg-[#ffffff21] lg:max-w-[364px] w-full">
                   <p className="text-[20px]  text-white max-w-[203px] font-semibold leading-[160%]">
                     Real-time Home Monitoring
                   </p>
                 </div>
               </div>
-              <div
-                className="lg:max-w-[364px] cursor-pointer rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66]"
-                data-aos="zoom-in-up"
-              >
+              <div className="lg:max-w-[364px] hover:shadow-[0_5px_16px_rgba(225,_225,_225,_1)] transition-all ease-linear duration-500  w-full cursor-pointer rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66]">
                 <img
                   src={IntelligentRobo}
                   alt="IntelligentRobo"
-                  className=" w-full"
+                  className="lg:max-w-[364px] w-full"
                 />
-                <div className=" px-6 pb-[30px] pt-[20px] bg-[#ffffff21]">
+                <div className=" px-6 pb-[30px] pt-[20px] bg-[#ffffff21] lg:max-w-[364px] w-full">
                   <p className="text-[20px] max-w-[271px] text-white font-semibold leading-[160%]">
                     Intelligent Contextual Awareness
                   </p>
