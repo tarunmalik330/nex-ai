@@ -115,7 +115,7 @@ const Header = () => {
         <div className="container mx-auto xl:max-w-[1164px] xl:px-3 px-6 md:pt-[189px] md:pb-[266px] py-[100px]">
           <div className="relative flex flex-col justify-center items-center">
             <h1
-              className="ff_play text-white lg:text-[60px] sm:text-[36px] text-[32px] leading-[132%]  font-bold max-w-[978px] text-center mb-[40px]"
+              className="ff_play text-white capitalize lg:text-[60px] sm:text-[36px] text-[32px] leading-[132%]  font-bold max-w-[978px] text-center mb-[40px]"
               data-aos="zoom-in-up"
             >
               NexAi is an advanced AI-powered home assistant
