@@ -15,29 +15,29 @@ const Features = () => {
         <div className="absolute w-[274px] h-[274px] rounded-[274px] bg-[#0066FF] right-0 blur-[200px] animate-pulse"></div>
         <div className="absolute w-[274px] h-[182px] bg-[#0066FF] bottom-[34%] left-0 rounded-[274px] blur-[200px] animate-pulse"></div>
         <div className="absolute left-0 bottom-0 right-0 w-full h-[121px]  bg-gradient-to-b from-[#01030900] to-[#010309]"></div>
-        <div className="absolute top-[17%] bottom-0 left-0 right-0 flex justify-center items-center">
+        <div className="absolute top-0 bottom-0 left-0 right-0 flex justify-center items-center">
           <img
             src={GlobalEarth}
             alt="GlobalEarth"
             className="max-w-[900px] w-full mix-blend-screen"
           />
         </div>
-        <div className="container xl:max-w-[1164px] mx-auto xl:px-3 px-6 h-[770px] overflow-y-scroll no-scrollbar mb-[39px] relative z-[1]">
-          <div className="flex flex-col justify-center items-center lg:mb-[100px] mb-[50px]">
-            <h2
-              className="ff_play text-white sm:text-[48px] text-[32px] text-center font-normal leading-[125%] mb-[16px]"
-              data-aos="zoom-in-up"
-            >
-              Unique features
-            </h2>
-            <p
-              className="text-[#B4B5B6] text-[16px] font-normal lg:max-w-[517px] text-center"
-              data-aos="zoom-in-up"
-            >
-              ability to engage in natural, fluent conversations in over 15
-              languages,
-            </p>
-          </div>
+        <div className="flex flex-col justify-center items-center lg:mb-[100px] mb-[50px] px-6">
+          <h2
+            className="ff_play text-white sm:text-[48px] text-[32px] text-center font-normal leading-[125%] mb-[16px]"
+            data-aos="zoom-in-up"
+          >
+            Unique features
+          </h2>
+          <p
+            className="text-[#B4B5B6] text-[16px] font-normal lg:max-w-[517px] text-center"
+            data-aos="zoom-in-up"
+          >
+            ability to engage in natural, fluent conversations in over 15
+            languages,
+          </p>
+        </div>
+        <div className="container xl:max-w-[1164px] mx-auto xl:px-3 px-6 h-[553px] overflow-y-scroll no-scrollbar mb-[39px] relative z-[1]">
           <div className="flex flex-row justify-center flex-wrap relative">
             <div className="lg:w-6/12 sm:w-8/12 w-full flex flex-col lg:justify-start justify-center lg:items-start items-center relative z-10">
               <div className="lg:max-w-[364px] hover:shadow-[0_5px_16px_rgba(225,_225,_225,_1)] transition-all ease-linear duration-500 w-full cursor-pointer relative rounded-[16px] overflow-hidden border border-solid border-[#fcfcfc66] lg:mb-[180px] mb-[100px]">
