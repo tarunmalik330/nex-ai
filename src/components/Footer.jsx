@@ -131,7 +131,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <div className="w-full h-1 bg-gradient-to-b from-[#0066FF] to-[#02CDCF] opacity-40 mt-[35px] lg:mt-[60px]"></div>
+          <div className="w-full h-1 bg-gradient-to-b from-[#0066FF] to-[#02CDCF] rounded-[16px] opacity-40 mt-[35px] lg:mt-[60px]"></div>
           <p className="text-center text-[16px] text-white opacity-70 leading-[130%] py-5">
             @Copyright.nexai
           </p>
